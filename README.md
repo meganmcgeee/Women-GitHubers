@@ -108,6 +108,8 @@ Let's collect the data of Woman on GitHub, who inspired you to code more, learn 
 
 [Maxime Chevalier-Boisvert](https://github.com/maximecb)
 
+[Megan McGee](https://github.com/meganmcgeee)
+
 [Misty De Meo](https://github.com/mistydemeo)
 
 [Molly Everett](https://github.com/mollymorphic)
